@@ -1,3 +1,4 @@
+*.pubxml
 *.swp
 *.*~
 project.lock.json
